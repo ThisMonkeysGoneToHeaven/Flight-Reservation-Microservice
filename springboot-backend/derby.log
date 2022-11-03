@@ -1,0 +1,16 @@
+----------------------------------------------------------------
+Sat Oct 22 14:10:10 IST 2022:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-0183-fed9-7dff-0000049a0be0 
+on database directory memory:/Users/anantagarwal/Documents/Java Projects/Flight-Reservation-System-Microservice/springboot-backend/41ea7c30-82fd-4a10-8bbf-c269b01b81e8 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@5c8da962 
+Loaded from file:/Users/anantagarwal/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Microsoft
+java.runtime.version=11.0.15+10-LTS
+user.dir=/Users/anantagarwal/Documents/Java Projects/Flight-Reservation-System-Microservice/springboot-backend
+os.name=Mac OS X
+os.arch=aarch64
+os.version=12.4
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Sat Oct 22 14:13:14 IST 2022:
+Shutting down instance a816c00e-0183-fed9-7dff-0000049a0be0 on database directory memory:/Users/anantagarwal/Documents/Java Projects/Flight-Reservation-System-Microservice/springboot-backend/41ea7c30-82fd-4a10-8bbf-c269b01b81e8 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@5c8da962 
